@@ -46,9 +46,9 @@ The following API endpoints are available:
 
 {
 
-"firstname": "Olawuwo Abideen",
+"firstname": "Jane",
 
-"lastname": "Olawuwo Abideen",
+"lastname": "Doe",
 
 "email": "janedoe@gmail.com",
 
@@ -87,8 +87,11 @@ A token will be generated copy the token and paste to the header section for aut
   {
 
   "itemname" : "phone", 
+
   "itemprice" : 2000000, 
+
   "itemweight" : 2,
+  
   "itemquantity": 3
 
 }
