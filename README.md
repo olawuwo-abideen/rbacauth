@@ -91,7 +91,7 @@ A token will be generated copy the token and paste to the header section for aut
   "itemprice" : 2000000, 
 
   "itemweight" : 2,
-  
+
   "itemquantity": 3
 
 }
@@ -102,7 +102,7 @@ A token will be generated copy the token and paste to the header section for aut
 
 * Response: 200 OK on success "Logistics retrieved successfully".
 
-- `GET /logistic/:id` - Admin Get logistic by id
+- `GET /logistic/:id` - Admin Get user role  logistic by id
 
 * Response: 200 OK on success "Logistics retrieved successfully".
 
@@ -110,7 +110,7 @@ A token will be generated copy the token and paste to the header section for aut
 
 * Response: 403 Forbidden.
 
-- `DELETE /logistic/:id` - Carrier delete logistic by id
+- `DELETE /logistic/:id` - Carrier user role  delete logistic by id
 
 * Response: 200 OK on success "Logistic deleted successfully".
 
@@ -118,7 +118,7 @@ A token will be generated copy the token and paste to the header section for aut
 
 * Response: 403 Forbidden.
 
-- `UPDATE /logistic/:id` - Shipper Get logistic by id
+- `UPDATE /logistic/:id` - Shipper user role Get logistic by id
 
 * Response: 200 OK on success "Logistics updated successfully".
 
